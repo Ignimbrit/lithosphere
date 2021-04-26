@@ -146,11 +146,12 @@ mymodel$plot3d(
 
 `lithosphere`is currently in a very early stage in its developement and
 basically everything about the interface may change in the very near
-fututer.
+future.
 
 ## Alternative solutions for 3D-geological modelling
 
-*If you are looking for a (much) more sophisticated approach check out
-[Gempy](https://github.com/cgre-aachen/gempy)\! *An approach similar to
-that of `lithosphere` yet probably more mature can be found with
-[iMod](https://www.deltares.nl/en/software/imod/)
+If you are looking for a (much) more sophisticated approach check out
+[Gempy](https://github.com/cgre-aachen/gempy)\!
+
+An approach similar to that of `lithosphere` yet probably more mature
+can be found with [iMod](https://www.deltares.nl/en/software/imod/)
