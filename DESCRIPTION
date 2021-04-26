@@ -1,0 +1,27 @@
+Package: lithosphere
+Title: Geological 3D-Modeling with R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Soeren",
+           family = "Wilke",
+           role = c("aut", "cre"),
+           email = "swilke@gmx.de")
+Description: Geological 3D-Modeling with R.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+    automap,
+    dplyr,
+    grDevices,
+    gstat,
+    purrr,
+    R6,
+    raster,
+    rgl,
+    sf,
+    tidyr
+Depends: 
+    R (>= 2.10)
